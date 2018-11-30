@@ -1,0 +1,4 @@
+C:\Users\Bailey\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\182.5107.21\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" "C:\Users\Bailey\OneDrive - Fareham College\Year 2\Programming\Tutorial 2\Task 5"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Bailey/OneDrive - Fareham College/Year 2/Programming/Tutorial 2/Task 5/cmake-build-debug
