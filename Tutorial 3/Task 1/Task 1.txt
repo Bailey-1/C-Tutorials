@@ -1,0 +1,9 @@
+1.	 r = (i == 16); true
+2.	 r = (k != 16); true
+3.	 r = (k < 10); true
+4.	 r = (j > 33); false
+5.	 r = (j == (k * 2)); false
+6.	 r = (j == (i * 2)); true
+7.	 r = ((k + i) <= (j – i)); true
+8.	 r = ((i / k) == 2); true
+9.	 r = ((( i + j + k ) / k ) >= 7 ); true
