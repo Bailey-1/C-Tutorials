@@ -9,8 +9,7 @@ int main()
     printf("Which element location do u want?: ");
     scanf("%d", &answer);
 
-    printf("%d", numbers[answer]);
-
+    printf("%f", numbers[answer-1]);
 
     return 0;
 }

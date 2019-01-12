@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1547119610 source:o:\year 2\programming\c tutorials\tutorial 6\task 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
