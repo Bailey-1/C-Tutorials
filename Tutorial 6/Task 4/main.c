@@ -29,8 +29,7 @@ int main()
 
     for (int i=0;i<=9;i++){
         if (usernum == numbers[i]){
-            tempnum = i + 1;
-            printf("The number was found at number %d in the array\n", tempnum);
+            printf("The number was found at position %d in the array\n", i);
         }
     }
 }
