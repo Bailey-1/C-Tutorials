@@ -7,4 +7,4 @@ Completed tasks for the C Tutorial.
 - [X] Complete Tutorial 3
 - [X] Complete Tutorial 4
 - [X] Complete Tutorial 5
-- [ ] Complete Tutorial 6
+- [X] Complete Tutorial 6
