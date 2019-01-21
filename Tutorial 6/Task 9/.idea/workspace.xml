@@ -12,44 +12,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8448b852-8ebc-4fec-a722-d97da46af190" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/cmake-build-debug/CMakeFiles/2.dir/C.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/cmake-build-debug/CMakeFiles/2.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/cmake-build-debug/CMakeFiles/2.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/cmake-build-debug/CMakeFiles/2.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/cmake-build-debug/CMakeFiles/2.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/cmake-build-debug/CMakeFiles/2.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/cmake-build-debug/CMakeFiles/2.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/cmake-build-debug/CMakeFiles/2.dir/embed.manifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/cmake-build-debug/CMakeFiles/2.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/cmake-build-debug/CMakeFiles/2.dir/intermediate.manifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/cmake-build-debug/CMakeFiles/2.dir/main.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/cmake-build-debug/CMakeFiles/2.dir/manifest.rc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/cmake-build-debug/CMakeFiles/2.dir/manifest.res" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/cmake-build-debug/CMakeFiles/2.dir/objects1.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/cmake-build-debug/CMakeFiles/2.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/cmake-build-debug/CMakeFiles/2.dir/vc140.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/cmake-build-debug/CMakeFiles/3.12.3/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/cmake-build-debug/CMakeFiles/3.12.3/CMakeRCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/cmake-build-debug/CMakeFiles/3.12.3/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/CMakeCCompilerId.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/CMakeCCompilerId.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Tutorial 3/Task 7/2/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 4/Task 4.layout" beforeDir="false" afterPath="$PROJECT_DIR$/../Task 4/Task 4.layout" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 4/bin/Debug/Task 4.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Task 4/bin/Debug/Task 4.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 4/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Task 4/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 4/obj/Debug/main.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Task 4/obj/Debug/main.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task 10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task 10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_9.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_9.dir/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_9.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Task_9.dir/vc140.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Task_9.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Task_9.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Task_9.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Task_9.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Task_9.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Task_9.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,7 +35,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor" />
@@ -69,8 +44,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4825">
-              <caret line="193" column="9" lean-forward="true" selection-start-line="193" selection-start-column="9" selection-end-line="193" selection-end-column="9" />
+            <state relative-caret-position="185">
+              <caret line="158" column="31" lean-forward="true" selection-start-line="158" selection-start-column="31" selection-end-line="158" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -98,10 +73,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -122,11 +94,16 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Task_9" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_9" TARGET_NAME="Task_9" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_9" RUN_TARGET_NAME="Task_9">
+    <configuration name="Task_9" type="CMakeRunConfiguration" factoryName="Application" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Task_9" TARGET_NAME="Task_9" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Task_9" RUN_TARGET_NAME="Task_9">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task_9" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -139,11 +116,13 @@
       <option name="presentableId" value="Default" />
       <updated>1547993734493</updated>
       <workItem from="1547993735683" duration="3907000" />
+      <workItem from="1548059267616" duration="15000" />
+      <workItem from="1548059371397" duration="968000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3907000" />
+    <option name="totallyTimeSpent" value="4890000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -158,26 +137,26 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="CMake" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.31960997" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.43878657" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.46153846" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.31960997" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,8 +168,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4825">
-          <caret line="193" column="9" lean-forward="true" selection-start-line="193" selection-start-column="9" selection-end-line="193" selection-end-column="9" />
+        <state relative-caret-position="185">
+          <caret line="158" column="31" lean-forward="true" selection-start-line="158" selection-start-column="31" selection-end-line="158" selection-end-column="31" />
         </state>
       </provider>
     </entry>

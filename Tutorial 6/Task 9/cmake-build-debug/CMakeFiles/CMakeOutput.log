@@ -26,25 +26,25 @@ The C compiler identification is MSVC, found in "C:/Users/Bailey/Desktop/C Tutor
 Determining if the C compiler works passed with the following output:
 Change Dir: C:/Users/Bailey/Desktop/C Tutorials/Tutorial 6/Task 9/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"nmake" "/nologo" "cmTC_d2437\fast"
-	"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_d2437.dir\build.make /nologo -L                  CMakeFiles\cmTC_d2437.dir\build
-Building C object CMakeFiles/cmTC_d2437.dir/testCCompiler.c.obj
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @C:\Users\Bailey\AppData\Local\Temp\nm5B1C.tmp
+Run Build Command:"nmake" "/nologo" "cmTC_55adb\fast"
+	"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_55adb.dir\build.make /nologo -L                  CMakeFiles\cmTC_55adb.dir\build
+Building C object CMakeFiles/cmTC_55adb.dir/testCCompiler.c.obj
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @C:\Users\Bailey\AppData\Local\Temp\nm711D.tmp
 testCCompiler.c
-Linking C executable cmTC_d2437.exe
-	C:\Users\Bailey\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\183.4886.39\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_d2437.dir --manifests  -- C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_d2437.dir\objects1.rsp @C:\Users\Bailey\AppData\Local\Temp\nm5B6B.tmp
+Linking C executable cmTC_55adb.exe
+	C:\Users\Bailey\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\183.4886.39\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_55adb.dir --manifests  -- C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_55adb.dir\objects1.rsp @C:\Users\Bailey\AppData\Local\Temp\nm7266.tmp
 
 
 Detecting C compiler ABI info compiled with the following output:
 Change Dir: C:/Users/Bailey/Desktop/C Tutorials/Tutorial 6/Task 9/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"nmake" "/nologo" "cmTC_5837c\fast"
-	"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_5837c.dir\build.make /nologo -L                  CMakeFiles\cmTC_5837c.dir\build
-Building C object CMakeFiles/cmTC_5837c.dir/CMakeCCompilerABI.c.obj
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @C:\Users\Bailey\AppData\Local\Temp\nm5DBC.tmp
+Run Build Command:"nmake" "/nologo" "cmTC_1bd6a\fast"
+	"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_1bd6a.dir\build.make /nologo -L                  CMakeFiles\cmTC_1bd6a.dir\build
+Building C object CMakeFiles/cmTC_1bd6a.dir/CMakeCCompilerABI.c.obj
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @C:\Users\Bailey\AppData\Local\Temp\nm74D6.tmp
 CMakeCCompilerABI.c
-Linking C executable cmTC_5837c.exe
-	C:\Users\Bailey\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\183.4886.39\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_5837c.dir --manifests  -- C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_5837c.dir\objects1.rsp @C:\Users\Bailey\AppData\Local\Temp\nm5E0B.tmp
+Linking C executable cmTC_1bd6a.exe
+	C:\Users\Bailey\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\183.4886.39\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_1bd6a.dir --manifests  -- C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_1bd6a.dir\objects1.rsp @C:\Users\Bailey\AppData\Local\Temp\nm7525.tmp
 
 
 
@@ -52,13 +52,13 @@ Linking C executable cmTC_5837c.exe
 Detecting C [] compiler features compiled with the following output:
 Change Dir: C:/Users/Bailey/Desktop/C Tutorials/Tutorial 6/Task 9/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"nmake" "/nologo" "cmTC_7fca2\fast"
-	"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_7fca2.dir\build.make /nologo -L                  CMakeFiles\cmTC_7fca2.dir\build
-Building C object CMakeFiles/cmTC_7fca2.dir/feature_tests.c.obj
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @C:\Users\Bailey\AppData\Local\Temp\nm604C.tmp
+Run Build Command:"nmake" "/nologo" "cmTC_303ac\fast"
+	"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_303ac.dir\build.make /nologo -L                  CMakeFiles\cmTC_303ac.dir\build
+Building C object CMakeFiles/cmTC_303ac.dir/feature_tests.c.obj
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @C:\Users\Bailey\AppData\Local\Temp\nm7766.tmp
 feature_tests.c
-Linking C executable cmTC_7fca2.exe
-	C:\Users\Bailey\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\183.4886.39\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_7fca2.dir --manifests  -- C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_7fca2.dir\objects1.rsp @C:\Users\Bailey\AppData\Local\Temp\nm609B.tmp
+Linking C executable cmTC_303ac.exe
+	C:\Users\Bailey\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\183.4886.39\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_303ac.dir --manifests  -- C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_303ac.dir\objects1.rsp @C:\Users\Bailey\AppData\Local\Temp\nm77A6.tmp
 
 
     Feature record: C_FEATURE:1c_function_prototypes

@@ -1,25 +1,22 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello, World!\n");
-
     int students[10][5] = {
             //ID, Mark 1, Mark 2, Mark 3, Average
-            {1, 75, 87, 65, 0},
-            {2, 57, 90, 42, 0},
-            {3, 36, 45, 83, 0},
-            {4, 26, 86, 87, 0},
-            {5, 97, 74, 16, 0},
-            {6, 64, 26, 21, 0},
-            {7, 87, 89, 62, 0},
-            {8, 57, 62, 25, 0},
-            {9, 41, 26, 83, 0},
+            {1,  75, 87, 65, 0},
+            {2,  57, 90, 42, 0},
+            {3,  36, 45, 83, 0},
+            {4,  26, 86, 87, 0},
+            {5,  97, 74, 16, 0},
+            {6,  64, 26, 21, 0},
+            {7,  87, 89, 62, 0},
+            {8,  57, 62, 25, 0},
+            {9,  41, 26, 83, 0},
             {10, 07, 99, 63, 0}
     };
 
-
     //Calculate Average
-    for (int i=0; i<=9; i++) {
+    for (int i = 0; i <= 9; i++) {
         //a[i][4] = (a[i][1] + a[i][2] + a[i][3]) / 3;
         int number = (students[i][1] + students[i][2] + students[i][3]) / 3;
         printf("%d\n", number);
@@ -28,7 +25,7 @@ int main() {
 
     int true = 1;
 
-    while(true) {
+    while (true) {
         printf("\n=================================================");
         printf("\nWhat Would You Like To Do?");
         printf("\n=================================================");
@@ -52,7 +49,8 @@ int main() {
                 scanf("%d", &answer);
 
                 for (int i = 0; i <= 9; i++) {
-                    if (students[i][0] == answer) { //Comparing the first element in the array to answer so you can change the ID in the array and it will still work
+                    if (students[i][0] ==
+                        answer) { //Comparing the first element in the array to answer so you can change the ID in the array and it will still work
                         printf("The average score for student %d is %d", students[i][0], students[i][4]);
                     }
                 }
@@ -146,3 +144,4 @@ int main() {
                 break;
         }
     }
+}

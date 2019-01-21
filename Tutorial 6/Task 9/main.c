@@ -25,7 +25,10 @@ int main() {
 
     int true = 1;
 
-    size_t n;
+    //Calculate the number of students in the array. Starting at zero.
+    size_t n = sizeof(students) / sizeof(int);
+    int noOfStudents = (n / 5)-1;
+    //printf("NUMOFSTUDENTS: %d\n", noOfStudents);
 
     while (true) {
         printf("\n=================================================");
@@ -41,12 +44,10 @@ int main() {
         printf("\n[7] Add new record to the system");
         printf("\n=================================================\n");
 
+        printf("Number of Students: %d\n", noOfStudents);
+
         int response;
         scanf("%d", &response);
-
-        n = sizeof(students) / sizeof(int);
-        int noOfStudents = (n / 5);
-        printf("NUMOFSTUDENTS: %d\n", noOfStudents);
 
         switch (response) {
             case 1 :
@@ -58,7 +59,7 @@ int main() {
 
                 for (int i = 0; i <= noOfStudents; i++) {
                     if (students[i][0] == answer) { //Comparing the first element in the array to answer so you can change the ID in the array and it will still work
-                        printf("The average score for student %d is %d", students[i][0], students[i][4]);
+                        printf("The average score for student %d is %d\n", students[i][0], students[i][4]);
                     }
                 }
                 break;
@@ -180,15 +181,14 @@ int main() {
                 printf("\nM3: %d", studentM3);
                 printf("\nAvg: %d", studentAvg);
 
-                //size_t n = sizeof(students) / sizeof(int);
-                //int noOfStudents = n / 5;
-                //printf("Number of Students: %d", noOfStudents);
+                //Plus one to noOfStudents because it starts at 0 for the arrays.
+                students[noOfStudents + 1][0] = studentId;
+                students[noOfStudents + 1][1] = studentM1;
+                students[noOfStudents + 1][2] = studentM2;
+                students[noOfStudents + 1][3] = studentM3;
+                students[noOfStudents + 1][4] = studentAvg;
 
-                students[noOfStudents][0] = studentId;
-                students[noOfStudents][1] = studentM1;
-                students[noOfStudents][2] = studentM2;
-                students[noOfStudents][3] = studentM3;
-                students[noOfStudents][4] = studentAvg;
+                noOfStudents++; //Sizeof(students) doesnt dynamically update without pointers. Cheaty way to do it.
 
                 break;
         }
