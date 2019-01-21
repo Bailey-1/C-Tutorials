@@ -19,7 +19,7 @@ int main() {
     for (int i = 0; i <= 9; i++) {
         //a[i][4] = (a[i][1] + a[i][2] + a[i][3]) / 3;
         int number = (students[i][1] + students[i][2] + students[i][3]) / 3;
-        printf("%d\n", number);
+        //printf("%d\n", number);
         students[i][4] = number;
     }
 
@@ -44,7 +44,7 @@ int main() {
         printf("\n[7] Add new record to the system");
         printf("\n=================================================\n");
 
-        printf("Number of Students: %d\n", noOfStudents);
+        //printf("Number of Students: %d\n", noOfStudents);
 
         int response;
         scanf("%d", &response);
@@ -175,11 +175,11 @@ int main() {
 
                 studentAvg = (studentM1 + studentM2 + studentM3) / 3;
 
-                printf("\nID: %d", studentId);
-                printf("\nM1: %d", studentM1);
-                printf("\nM2: %d", studentM2);
-                printf("\nM3: %d", studentM3);
-                printf("\nAvg: %d", studentAvg);
+                //printf("\nID: %d", studentId);
+                //printf("\nM1: %d", studentM1);
+                //printf("\nM2: %d", studentM2);
+                //printf("\nM3: %d", studentM3);
+                //printf("\nAvg: %d", studentAvg);
 
                 //Plus one to noOfStudents because it starts at 0 for the arrays.
                 students[noOfStudents + 1][0] = studentId;

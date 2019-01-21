@@ -19,7 +19,7 @@ int main() {
     for (int i = 0; i <= 9; i++) {
         //a[i][4] = (a[i][1] + a[i][2] + a[i][3]) / 3;
         int number = (students[i][1] + students[i][2] + students[i][3]) / 3;
-        printf("%d\n", number);
+        //printf("%d\n", number);
         students[i][4] = number;
     }
 
