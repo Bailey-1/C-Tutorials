@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1548239544 source:o:\year 2\programming\c tutorials\tutorial 7\task 7\main.c
+	<stdio.h>
+	<stdlib.h>
+
