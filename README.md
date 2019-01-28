@@ -1,7 +1,7 @@
 # C-Tutorials
 Completed tasks for the C Tutorial.
 
-## TODO
+## TODO:
 - [X] Complete Tutorial 1
 - [X] Complete Tutorial 2
 - [X] Complete Tutorial 3
