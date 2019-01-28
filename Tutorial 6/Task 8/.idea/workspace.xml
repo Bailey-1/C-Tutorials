@@ -11,16 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c76fe3c7-18ff-42f8-a03a-2af31675de06" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task 9/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 9/cmake-build-debug/CMakeFiles/Task_9.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../Task 9/cmake-build-debug/CMakeFiles/Task_9.dir/main.c.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 9/cmake-build-debug/CMakeFiles/Task_9.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Task 9/cmake-build-debug/CMakeFiles/Task_9.dir/vc140.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 9/cmake-build-debug/Task_9.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Task 9/cmake-build-debug/Task_9.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 9/cmake-build-debug/Task_9.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../Task 9/cmake-build-debug/Task_9.ilk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 9/cmake-build-debug/Task_9.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Task 9/cmake-build-debug/Task_9.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 9/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Task 9/main.c" afterDir="false" />
-    </list>
+    <list default="true" id="c76fe3c7-18ff-42f8-a03a-2af31675de06" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
-              <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -106,14 +97,16 @@
       <workItem from="1547990278515" duration="3453000" />
       <workItem from="1548060343465" duration="116000" />
       <workItem from="1548088395829" duration="135000" />
+      <workItem from="1548666614680" duration="3000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3704000" />
+    <option name="totallyTimeSpent" value="3707000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.3085339" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -147,7 +140,7 @@
     <entry file="file://$PROJECT_DIR$/main.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>

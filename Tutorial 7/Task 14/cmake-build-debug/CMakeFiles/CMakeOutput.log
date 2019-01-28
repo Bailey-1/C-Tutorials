@@ -1,0 +1,65 @@
+The system is: Windows - 10.0.17763 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.16.27023/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27024.1 for x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.16.27024.1
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/Users/Bailey/OneDrive - Fareham College/Year 2/Programming/C Tutorials/Tutorial 7/Task 14/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/Bailey/OneDrive - Fareham College/Year 2/Programming/C Tutorials/Tutorial 7/Task 14/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"nmake" "/nologo" "cmTC_9b5b1\fast"
+	"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_9b5b1.dir\build.make /nologo -L                  CMakeFiles\cmTC_9b5b1.dir\build
+Building C object CMakeFiles/cmTC_9b5b1.dir/testCCompiler.c.obj
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @C:\Users\Bailey\AppData\Local\Temp\nmA0EC.tmp
+testCCompiler.c
+Linking C executable cmTC_9b5b1.exe
+	C:\Users\Bailey\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\183.4886.39\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_9b5b1.dir --manifests  -- C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_9b5b1.dir\objects1.rsp @C:\Users\Bailey\AppData\Local\Temp\nmA12C.tmp
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/Bailey/OneDrive - Fareham College/Year 2/Programming/C Tutorials/Tutorial 7/Task 14/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"nmake" "/nologo" "cmTC_a0818\fast"
+	"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_a0818.dir\build.make /nologo -L                  CMakeFiles\cmTC_a0818.dir\build
+Building C object CMakeFiles/cmTC_a0818.dir/CMakeCCompilerABI.c.obj
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @C:\Users\Bailey\AppData\Local\Temp\nmA38C.tmp
+CMakeCCompilerABI.c
+Linking C executable cmTC_a0818.exe
+	C:\Users\Bailey\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\183.4886.39\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_a0818.dir --manifests  -- C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_a0818.dir\objects1.rsp @C:\Users\Bailey\AppData\Local\Temp\nmA3DB.tmp
+
+
+
+
+Detecting C [] compiler features compiled with the following output:
+Change Dir: C:/Users/Bailey/OneDrive - Fareham College/Year 2/Programming/C Tutorials/Tutorial 7/Task 14/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"nmake" "/nologo" "cmTC_065b4\fast"
+	"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_065b4.dir\build.make /nologo -L                  CMakeFiles\cmTC_065b4.dir\build
+Building C object CMakeFiles/cmTC_065b4.dir/feature_tests.c.obj
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @C:\Users\Bailey\AppData\Local\Temp\nmA63B.tmp
+feature_tests.c
+Linking C executable cmTC_065b4.exe
+	C:\Users\Bailey\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\183.4886.39\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_065b4.dir --manifests  -- C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_065b4.dir\objects1.rsp @C:\Users\Bailey\AppData\Local\Temp\nmA67B.tmp
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_variadic_macros
